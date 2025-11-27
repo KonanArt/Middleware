@@ -178,7 +178,7 @@ Content-Type: application/json
 }
 
 
-# 🔍 **4. Como consultar um cliente**
+# **4. Como consultar um cliente**
 
 ### **GET**
 
@@ -198,7 +198,7 @@ Authorization: TOKEN123
 }
 
 
-# 🧩 **5. Exemplos completos dos XML**
+# **5. Exemplos completos dos XML**
 
 ### **XML que o Middleware envia para o Legado (cadastro)**
 
@@ -233,4 +233,5 @@ Authorization: TOKEN123
         <email>maria@gmail.com</email>
         <cpf>KF88asd8...==</cpf>
     </Cliente>
+
 </Resposta>
